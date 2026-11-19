@@ -1,4 +1,4 @@
-# Learn-C-
+# Learn C#
 Learning the basics of C# through Microsoft Learn and freecodecamps Learn C# collection.
 
 Link: https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07?WT.mc_id=dotnet-35129-website
